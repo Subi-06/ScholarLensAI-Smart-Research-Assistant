@@ -1,15 +1,3 @@
----
-title: ScholarLensAI Smart Research Assistant
-emoji: 🎓
-colorFrom: indigo
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.35.0
-app_file: app.py
-pinned: false
-license: mit
----
-
 # ScholarLens AI
 
 > Upload your research papers and instantly ask questions, compare studies, discover gaps, and generate literature survey reports — all powered by AI.
