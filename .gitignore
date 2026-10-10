@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# App data (uploads, processed PDFs, FAISS indexes, generated reports, SQLite DB)
+data/uploads/
+data/processed/
+data/indexes/
+data/reports/
+data/*.db
+
+# Streamlit secrets (keep config.toml)
+.streamlit/secrets.toml
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage

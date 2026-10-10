@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 44" width="240" height="44">
+  <defs>
+    <linearGradient id="sl_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#3730A3"/>
+    </linearGradient>
+  </defs>
+  <!-- Monogram Box -->
+  <rect x="2" y="4" width="36" height="36" rx="8" fill="url(#sl_grad)"/>
+  <text x="20" y="27" font-family="Inter, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">SL</text>
+  <!-- Brand Name -->
+  <text x="48" y="22" font-family="Inter, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#F8FAFC" letter-spacing="-0.2">ScholarLens AI</text>
+  <!-- Tagline -->
+  <text x="48" y="35" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="500" fill="#818CF8" letter-spacing="0.4">Research. Analyse. Discover</text>
+</svg>
