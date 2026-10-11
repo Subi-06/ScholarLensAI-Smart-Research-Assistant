@@ -3,6 +3,8 @@
 > Upload your research papers and instantly ask questions, compare studies, discover gaps, and generate literature survey reports — all powered by AI.
 > Built for students and researchers who want smart insights from academic PDFs without the manual effort.
 
+**Live Demo:** [https://scholarlensai-smart-research-assistant.onrender.com/](https://scholarlensai-smart-research-assistant.onrender.com/)
+
 ---
 
 ## Features
@@ -108,11 +110,8 @@ ScholarLensAI/
 
 ## Deployment
 
-Deploy for free on **[Hugging Face Spaces](https://huggingface.co/spaces)**:
-1. Push this repo to GitHub
-2. Create a new Space at https://huggingface.co/new-space (SDK: Streamlit)
-3. Link your GitHub repository
-4. Add `GEMINI_API_KEY` and `GEMINI_MODEL` in the Space secrets
+- **Live Application:** [https://scholarlensai-smart-research-assistant.onrender.com/](https://scholarlensai-smart-research-assistant.onrender.com/)
+- Hosted on Render Web Services (Streamlit runtime with Google Gemini API)
 
 ---
 
